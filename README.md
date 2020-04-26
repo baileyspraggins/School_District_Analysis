@@ -22,6 +22,10 @@ The top 5 performing schools changed as Thomas High School is now no longer in t
 
 The bottom 5 performing schools did not change.
 
+#### Scores by Grade
+
+Math and Reading scores by grade are just shown as NaN for 9th graders at Thomas High School 
+
 #### Scores by Spending Range
 
 Because Thomas High School was in the $630-644 spending range, there was about a 7% decrease in the %Passing Reading and % Overall Passing categories and a 6% decrease in the % Passing Math
